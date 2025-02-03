@@ -1,0 +1,5 @@
+Pikachu,Electric,0.4,6.0,Raichu
+Bulbasaur,Grass/Poison,0.7,6.9,Ivysaur
+Charmander,Fire,0.6,8.5,Charmeleon
+Squirtle,Water,0.5,9.0,Wartortle
+Eevee,Normal,0.3,6.5,Vaporeon, Jolteon, Flareon
